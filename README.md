@@ -10,3 +10,13 @@ To install Spark/Scala on MacOS us the following command in the terminal:
 sh setup_spark_on_macos.sh
 ```
 
+
+## To Get Data 
+To get data for analysis performed in the code in this repo run the following
+
+### MacOS
+```bash
+sh get_data.sh
+```
+
+
